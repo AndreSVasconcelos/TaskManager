@@ -2,7 +2,7 @@
 
 ## Como rodar o projeto
 ```bash
-git clone <seu_repositorio>
+git clone https://github.com/AndreSVasconcelos/TaskManager
 cd TaskManager
 dotnet run
 
