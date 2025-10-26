@@ -28,6 +28,8 @@ No exemplo acima a API estará disponível nas duas opções:
 https://localhost:7246 -> Para https
 http://localhost:5288 -> Para http
 
+## Como testar o projeto
+
 A API poderá ser testada diretamente pelo browser utilizando o Swagger. Basta adicionar '/swagger' à url da API. Exemplo: https://localhost:5001/swagger
 
 A API pode ser testada também enviando comandos diretos aos seus enpoints via curl ou ferramentas como Postman.
